@@ -5,8 +5,8 @@ While there are many electronic lab notebook out there, the top tier ones separa
 
 | Name                                      | Web Link                                                               
 |-------------------------------------------|----------------------------------------                                           
-| Benchling                                 | <a href="https://benchling.com" rel="nofollow">benchling.com</a>                                                          
+| Benchling                                 | <a href="https://benchling" rel="nofollow">benchling.com</a>                                                          
 | Exemplar Seamless ELN                     | <a href="https://www.sapiosciences.com/electronic-lab-notebook-software-eln">Electronic Lab Notebook</a>                        
-| IDBS E‑WorkBook                           | <a href="https://www.idbs.com/" rel="nofollow">idbs.com</a>                        
-| BIOVIA ELN                                | <a href="http://accelrys.com/" rel="nofollow">accelrys.com</a>   
-| PerkinElmer - Elements                    | <a href="http://www.cambridgesoft.com/" rel="nofollow">cambridgesoft.com</a>      
+| IDBS E‑WorkBook                           | <a href="https://idbs/" rel="nofollow">idbs.com</a>                        
+| BIOVIA ELN                                | <a href="http://accelrys/" rel="nofollow">accelrys.com</a>   
+| PerkinElmer - Elements                    | <a href="http://cambridgesoft/" rel="nofollow">cambridgesoft.com</a>      
